@@ -1,13 +1,36 @@
-# 🏄‍♂️ Mortix
+![Coding](https://i.gifer.com/3rCC.gif)
 
-**`Developer`**
+<h1 align="center">🏄‍♂️ Mortix</h1>
 
-I'm a
+<h3 align="center"><strong><code>Dev</code></strong></h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mortix4&label=Profile%20views&color=0e75b6&style=flat" alt="mortix4" /> </p>
 
-### 🧰 Languages and Tools
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy" class="trophy-container"><img src="https://github-profile-trophy.vercel.app/?username=mortix4&column=4&margin-w=20&margin-h=20&theme=tokyonight" alt="mortix4" /></a></p>
 
+- 🔭 I’m currently working on [GDM](www.github.com)
+
+- 🌱 I’m currently learning **Magshimim**
+
+- 👯 I’m looking to collaborate on [collaborate](www.github.com)
+
+- 🤝 I’m looking for help with [help](www.github.com)
+
+- 💬 Ask me about **ask me**
+
+- 📫 How to reach me **gmail@gmail.com**
+
+- 📄 Know about my experiences [resume](resume.com)
+
+- ⚡ Fun fact **funny shi**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/mortix - https://www.youtube.com/@mortix2159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mortix - https://www.youtube.com/@mortix2159" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools
+<p>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -22,22 +45,19 @@ I'm a
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-<br />
+<img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" /> </p>
+<br/>
 
-#
+---
 
 ### 📊 Stats
 
-![Mortix's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortix4&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mortix4&show_icons=true&locale=en&theme=gruvbox" alt="mortix4" /></p>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mortix4&theme=gruvbox&border_radius=4.5) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortix4&theme=gruvbox" alt="mortix4" /></p>
 
-#
-
-<details>
- <summary><h3>👨‍💻 Mortix's Coding Journey</h3></summary>
-   I started my coding journey ...
 
