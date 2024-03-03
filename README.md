@@ -1,12 +1,15 @@
-![Coding](https://i.gifer.com/3rCC.gif)
-
 <h1 align="center">🏄‍♂️ Mortix</h1>
-
 <h3 align="center"><strong><code>Dev</code></strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mortix4&label=Profile%20views&color=0e75b6&style=flat" alt="mortix4" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy" class="trophy-container"><img src="https://github-profile-trophy.vercel.app/?username=mortix4&column=4&margin-w=20&margin-h=20&theme=tokyonight" alt="mortix4" /></a></p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy" class="trophy-container"><img src="https://github-profile-trophy.vercel.app/?username=mortix4&column=4&margin-w=20&margin-h=20&theme=tokyonight" alt="mortix4" style="height: 300px; object-fit: contain; border-radius: 90%;"></a></p>
+<p><img src="https://github.com/Mortix4/Mortix/assets/153028449/8e4e40ca-f975-482c-8dff-20bfe5f565b7" alt="giphy" align="right" style="height: 350px; object-fit: contain; border-radius: 50%;"></p>
+</div>
+
+
+
 
 - 🔭 I’m currently working on [GDM](www.github.com)
 
