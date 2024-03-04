@@ -8,7 +8,8 @@
 <p><img src="https://github.com/Mortix4/Mortix/assets/153028449/8e4e40ca-f975-482c-8dff-20bfe5f565b7" alt="giphy" align="right" style="height: 350px; object-fit: contain; border-radius: 50%;"></p>
 </div>
 
-
+ 
+ 
 
 
 - 🔭 I’m currently working on [GDM](www.github.com)
